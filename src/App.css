@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+* {
+  text-align: center;
+  background-color: #282c34;
+  color: whitesmoke;
+}
+
+input{
+  border-color: rgb(230, 224, 224);
+  outline: white;
+}
+#login{
+  background-color: blue;
+}
+
